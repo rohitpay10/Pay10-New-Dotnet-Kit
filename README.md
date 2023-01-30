@@ -7,3 +7,6 @@ Note:Please update salt,pay id and merchant hosted key in the given file.
 2)Please set PAY_ID in the InputForm.aspx
 
 3)Please set aes.Key = Encoding.UTF8.GetBytes(""); //your merchant hosted key
+
+
+Software: Visual Stuio Community 2022 
