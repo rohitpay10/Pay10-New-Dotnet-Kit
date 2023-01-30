@@ -1,1 +1,1 @@
-For any help or query please email at technical support at rohit.singh@pay10.com
+Feel free to contact me for any help or query regarding an integration at rohit.singh@pay10.com
