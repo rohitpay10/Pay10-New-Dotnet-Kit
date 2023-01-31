@@ -80,7 +80,7 @@ public partial class ResponsePage : System.Web.UI.Page
             aes.BlockSize = 128;
             aes.KeySize = 128;
             aes.IV = Encoding.UTF8.GetBytes("1234123456785678");
-            aes.Key = Encoding.UTF8.GetBytes("D9C6C86443383ACEA888E2B9F2F90D74");//Merchant hosted Key
+            aes.Key = Encoding.UTF8.GetBytes("");//Merchant hosted Key
 
             aes.Mode = CipherMode.CBC;
             aes.Padding = PaddingMode.Zeros;
