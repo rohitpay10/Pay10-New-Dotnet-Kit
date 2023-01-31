@@ -12,7 +12,7 @@
         </script>
 </head>
 <body onload="javascript:submitForm()">
-<form method="post" action="https://uat.pay10.com/pgui/jsp/paymentrequest">
+<form method="post" action="https://secure.pay10.com/pgui/jsp/paymentrequest">
  	<%           
              IEnumerator postParams = Request.Form.GetEnumerator();
             while (postParams.MoveNext())
