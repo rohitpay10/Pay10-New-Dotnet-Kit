@@ -38,6 +38,29 @@
 									<td align="left" bgcolor="#eef5fe">&nbsp;</td>
 									<td align="left" bgcolor="#eef5fe"><asp:Label ID="tbOrderId" runat="server" Text=""></asp:Label></td>
 								</tr>
+
+							<!--- custom code -->
+							<tr>
+									<td align="left" bgcolor="#deecff">&nbsp;</td>
+									<td height="30" align="left" bgcolor="#deecff"><strong>EMAIL</strong></td>
+									<td align="left" bgcolor="#eef5fe">&nbsp;</td>
+									<td align="left" bgcolor="#eef5fe"><asp:Label ID="customerEmail" runat="server" Text=""></asp:Label></td>
+								</tr>
+
+							     <tr>
+									<td align="left" bgcolor="#deecff">&nbsp;</td>
+									<td height="30" align="left" bgcolor="#deecff"><strong>PAYMENT TYPE</strong></td>
+									<td align="left" bgcolor="#eef5fe">&nbsp;</td>
+									<td align="left" bgcolor="#eef5fe"><asp:Label ID="paymentType" runat="server" Text=""></asp:Label></td>
+								</tr>
+							<!-- end custom code -->
+
+							  <tr>
+									<td align="left" bgcolor="#deecff">&nbsp;</td>
+									<td height="30" align="left" bgcolor="#deecff"><strong>RESPONSE CODE</strong></td>
+									<td align="left" bgcolor="#eef5fe">&nbsp;</td>
+									<td align="left" bgcolor="#eef5fe"><asp:Label ID="responseCode" runat="server" Text=""></asp:Label></td>
+								</tr>
 								<tr>
 									<td align="left" bgcolor="#deecff">&nbsp;</td>
 									<td height="30" align="left" bgcolor="#deecff"><strong>RRN</strong></td>

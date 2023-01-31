@@ -37,7 +37,7 @@ input {border:1px solid #848484; border-top:2px solid #848484;	background-color:
 </tr>
 <tr>	
 	<td width="50%" align="right" valign="middle">Pay Id</td>
-	<td width="50%" align="center" valign="middle"><input type="text" id="PAY_ID" name="PAY_ID" value="" /></td>
+	<td width="50%" align="center" valign="middle"><input type="text" id="PAY_ID" name="PAY_ID" value="1099120418114007" /></td>
 </tr>
 <tr>	
 	<td width="50%" align="right" valign="middle">Order Id</td>
